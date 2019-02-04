@@ -1,0 +1,32 @@
+.title {
+    text-align: center;
+}
+.name {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    background: lightgrey;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.sub {
+    margin-left: 150px;
+    margin-right: 150px;
+    background: lightgrey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.image {
+    height: 300px;
+}
+.cursed {
+    display: flex;
+}
+body {
+    background: #403B4A;  /* fallback for old browsers */
+background:linear-gradient(to right, #E7E9BB, #403B4A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E7E9BB, #403B4A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.epic {
+    background-image: url("https://thumbs.gfycat.com/MenacingDistortedBluemorphobutterfly-size_restricted.gif");
+    color: white;
+}
